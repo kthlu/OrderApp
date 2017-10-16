@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">OrderApp</string>
+    <string name="title_activity_login">采购系统</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">请输入员工号</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登  陆</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">用户名格式错误</string>
+    <string name="error_invalid_email">邮件格式错误</string>
+    <string name="error_invalid_password">密码长度过短(至少6位)</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">不能为空</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
